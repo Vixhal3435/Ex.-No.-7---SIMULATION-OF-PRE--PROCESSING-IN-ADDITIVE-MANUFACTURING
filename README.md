@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1035" height="483" alt="image" src="https://github.com/user-attachments/assets/02f8a0a0-5ba6-46bf-8d87-6c9c47dd296b" />
+
+### Name: VISHAL V
+### Register Number: 212224040366
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
